@@ -54,6 +54,7 @@
     <instance objName="o_playbutton" x="64" y="288" name="inst_BB2FE7BA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_controlsbutton" x="64" y="128" name="inst_8C63797D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_esc" x="32" y="32" name="inst_C94A2C5C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_snd_musica" x="96" y="32" name="inst_8B77765A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

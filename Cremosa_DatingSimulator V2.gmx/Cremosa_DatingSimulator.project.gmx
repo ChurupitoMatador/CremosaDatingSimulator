@@ -6,6 +6,7 @@
   <NewExtensions/>
   <sounds name="sound">
     <sound>sound\mp3_mario</sound>
+    <sound>sound\sound_musica_do_jogo</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\s_playbutton</sprite>
@@ -26,6 +27,7 @@
     <object>objects\o_voltar</object>
     <object>objects\o_next</object>
     <object>objects\o_esc</object>
+    <object>objects\o_snd_musica</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\r_startroom</room>
